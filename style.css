@@ -1,3 +1,4 @@
+body{background-color: wheat;}
 .container,.score,.msg,h1{
     display: flex;
 align-items: center;
